@@ -8,11 +8,10 @@ I'm a Software Engineer passionate about creating the best possible experience f
 
 Technologies I love to work with are Vue, NuxtJs and React, I'm really interested in the Jamstack and how it can be used to acheive my passion.
 
-#### This month (Oct., 2020) I shall be Learning a thing or 2 about
-* Web performance (making things smaller and faster)
-* Web accessibility
+#### This month (Nov., 2020) I shall be Learning a thing or 2 about
+* Documenation and technical writting
+* Nuxt and Vue 3
 * React and Redux
-* GSAP
 
 Hit me up if you would love to share your knowledge and resources with me.
 <!--
